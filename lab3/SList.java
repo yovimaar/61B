@@ -1,4 +1,3 @@
-package lab3;
 
 /* SList.java */
 
